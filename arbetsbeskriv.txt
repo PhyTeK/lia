@@ -1,0 +1,100 @@
+TIDSPERIOD:
+Börjar: 2023-01-23 Slutar: 2023-03-19
+
+KONTAKTUPPGIFTER FÖRETAG:
+Namn: Nackademin Handledare: Philippe Martinet
+Besöksadress: Tomtebodavägen 3A 171 65, Solna Telefon: 08-466 60 00
+Internetadress: https://nackademin.se
+E-post philippe.martinet@nackademin.se
+
+KONTAKTUPPGIFTER STUDENT:
+Namn: -----  Klass: ITINF 22
+E-post: ---- Telefon under LIA: ----
+
+MÅL FÖR LÄRANDET UNDER LIA (enligt kursplanen):
+De studerande får under kursen en inblick i hur arbetsrollen fungerar
+i verkligheten och får möjlighet att relatera till praktikplatsens
+IT-infrastruktur under de kommande kurserna för att förankra sina
+kunskaper.
+
+Under handledning sätta upp, konfigurera samt administrera och
+övervaka IT- miljöer med server- och/eller klientoperativ samt
+nätverksinfrastruktur.
+
+Målet med kursen är att studenterna skall kunna arbeta med IT-drift
+och följa rutiner och metoder som används i branschen samt kunna delta
+och i bidra i driften av IT- miljöer med server- och/eller
+klientoperativ samt nätverksinfrastruktur.
+
+De studerande ska ha färdigheter i att:
+
+* Administrera och konfigurera delar av IT-system i drift.
+
+* Jobba i enlighet med företagets arbetsmetoder och rutiner.
+
+* Delta och bidra till verksamheten.
+
+* Konfigurera klientdatorer och/eller, i rimlig utsträckning, även
+  nätverksutrustning och servrar.
+
+* Hantera ärenden och/eller uppgifter av en art som uppkommer i daglig
+  drift av IT-system.
+
+* Reflektera över företagets arbetsmetoder och rutiner samt sin egen
+  lärandeprocess för den kommande yrkesrollen.
+
+För betyget Godkänd (G) ska den studerande:
+
+* förstå företagets rutiner och arbetsmetoder som företaget använder i
+  den dagliga driften och med handledning kan anpassa sina egna
+  arbetsmetoder utifrån dessa i syfte att få fördjupad förståelse för
+  yrkesrollen
+
+* kunna med handledning administrera och konfigurera klientdatorer
+  och/eller, i rimlig utsträckning, även nätverksutrustning och servrar.
+
+* kunna med handledning hantera ärenden och/eller uppgifter av en art
+  som uppkommer i daglig drift av IT-infrastruktur.
+
+* reflektera över företagets arbetsmetoder och rutiner utifrån
+  genomförda arbetsuppgifter och önskade resultat, samt sin egen
+  lärandeprocess för den kommande yrkesroll.
+
+
+För betyget Väl godkänd (VG) ska den studerande:
+
+* ha under en del av LIA-perioden planerat och/eller utfört sina
+  arbetsuppgifter självständigt och bidra i arbetsgrupp, om än under
+  överseende av LIA-handledare.
+
+ARBETSBESKRIVNING FÖR STUDENTEN UNDELR LIA:
+Studenten tillhör en grupp av 2/3 studenter och arbeta med
+följande uppgifter:
+
+* att simulera ett virtuellt nätverk med hjälp av Packet Tracer(PT).
+
+* att arbeta med fysiska enheter (switchar, hub, router, kablar).
+
+* att klara nya uppgifter som t.ex
+  konfiguation/installation/felsökning/dokumentation som presenteras i
+  början av varje vecka.
+
+* att presentera framför klassen och utbildare, i slutet av varje
+  vecka, resultat och problem som har uppstått under veckans sprint.
+
+* att använda planerings verktyg Jira Core (Atlassian) och företags
+  systemdokum entation Netbox (Digital Ocean).
+
+* Installera/konfigurera och säkra en Linux server kopplad till ett
+  nätverk.
+
+* Installera/konfigurera MPI under Linux.
+
+* att skriva en slutrapport av 10-20 sidor.
+
+* att framföra en slutlig presentation framför klassen och utbildare.
+
+Datum: Fredag den 27 Januari, 2023.
+
+Underskrift handledare:                  Underskrift student:
+Philippe Martinet
