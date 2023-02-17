@@ -1,0 +1,36 @@
+LIA IT-infrastruktur: Lektionplanering (V1.0)
+---------------------------------------------
+
+v.4     Mån     23/1    09:00 - 12:00   Introduktion av projekt, Agilt, PT
+v.4     Ons     25/1    09:00 - 12:00   TCP/IP Protocol, IP och ARP kommando. 
+v.4     Fre     27/1    09:00 - 13:00   Sprint 1 redovisning/diskutioner.
+
+v.5     Mån     30/1    09:00 - 12:00   Datasäkerhet och monitoring
+v.5     Ons      1/2    09:00 - 12:00   Brandvägar under Linux
+v.5     Fre      3/2    09:00 - 13:00   Sprint 2 redovisning/diskutioner
+
+v.6     Mån      6/2    09:00 - 12:00   Konfiguration av Cisco ACL
+v.6     Ons      8/2    09:00 - 12:00   Overvakning med Nagios/nmap
+v.6     Fre     10/2    09:00 - 13:00   Sprint 3 redovisning/diskutioner
+
+v.7     Mån     13/2    09:00 - 12:00   Installation och konfiguration av Jira
+v.7     Ons     15/2    09:00 - 12:00   Jira Core Data Center Tutorial
+v.7     Fre     17/2    09:00 - 13:00   Sprint 4 redovisning/diskutioner
+
+v.8     Mån     20/2    09:00 - 12:00   Installation och konfiguration av Netbox
+v.8     Ons     22/2    09:00 - 12:00   Hands on laborationer med Netbox
+v.8     Fre     24/2    09:00 - 13:00   Sprint 5 redovisning/diskutioner
+
+v.9     Mån     27/2    09:00 - 12:00   Övervakningssystem, Check-MK
+v.9     Ons      1/3    09:00 - 12:00   lagringslösningar såsom SAN, NAS och dylikt
+v.9     Fre      3/3    09:00 - 13:00   Sprint 6 redovisning/diskutioner
+
+v.10    Mån      6/3    09:00 - 12:00   VMware (ESX, VDI)
+v.10    Ons      8/3    09:00 - 12:00   Cloud IT-infrakstruktur i Linux
+v.10    Fre     10/3    09:00 - 13:00   Sprint 6 redovisning/diskutioner
+
+v.11    Mån     13/3    09:00 - 12:00   MPI i data-center
+v.11    Ons     15/3    09:00 - 12:00   Repetion
+v.11    Fre     17/3    09:00 - 13:00   Final Presentation av projekt
+v.11    Fre     17/3    14:00 - 16:00   (besök av KTH Superdator)
+
