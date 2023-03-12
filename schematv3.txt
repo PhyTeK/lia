@@ -29,8 +29,8 @@ v.10    Mån      6/3    09:00 - 12:00   Exim4 mail servers under Linux
 v.10    Ons      8/3    09:00 - 12:00   Data säkerhet filter Spam, Malware
 v.10    Fre     10/3    09:00 - 13:00   Sprint 7 redovisning/diskutioner
 
-v.11    Mån     13/3    09:30 - 11:00   KTH PDC superdator besök (Teknikringen 14, T-bana Tekniska Högskolan utgån KTH)
-v.11	Tis     14/3    09:30 - 11:00   Complior besök (Hammarby kaj 18)
+v.11    Mån     13/3    09:30 - 11:00   KTH PDC superdator besök (Teknikringen 14, 9:30 utgång T-bana Tekniska Högskolan)
+v.11	  Tis     14/3    09:30 - 11:00   Complior besök (kl. 9:30, Hammarby kaj 18)
 v.11    Ons     15/3    09:00 - 12:00   Repetion (Sal B406)
 v.11    Fre     17/3    09:00 - 13:00   Final Presentation av rapporten.
 
