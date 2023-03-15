@@ -1,0 +1,68 @@
+Title: Short but meanings-full
+-----------------------------
+Author(s) You and may be others
+
+Introduction/abstract
+---------------------
+
+The interesting things you have done without giving too much details.
+The point with an introduction is to attract/intresse the reader to read the rest of the report.
+Don't say too much! (1/2 page max)
+
+Choose your own structure for the report!
+An example could be as follow:
+
+1. Network configuration
+1.1  ....
+
+Use references! as follow:
+ACL From tutorial [1] ACL is defined
+
+2. Network monitoring
+Nagios
+
+3. Network administration
+
+3.1 Netbox [2], 
+Include figure with captions as follow:
+
+
+
+
+
+
+
+					Fig.1 Netbox GUI
+3.2 Postman
+3.3 Ansible
+
+
+4. KTH PDC
+
+5. Complior
+
+Conclusion
+----------
+
+Short! Don't repeat what you already said. Write an analysis of what
+you did.  E.g: What did you learn from LIA, What was most interesting.
+
+References
+-----------
+
+[1] http://
+[2] Netbox offocial webside
+
+Figures
+-------
+Fig.1 Netbox GUI , page 3
+Fig.2 .....      , page 6
+....
+
+Tables
+-----
+Table 1 ......, page 4
+Table 2 ..... , page 7
+
+
+						1/10
